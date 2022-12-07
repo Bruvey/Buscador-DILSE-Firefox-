@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0.1",
+  "version": "1.1",
   "name": "Buscador DILSE",
   "description": "Añade un motor de búsqueda que permite buscar palabras directamente en el Diccionario de la Lengua de Signos Española (DILSE)",
   "chrome_settings_overrides": {
@@ -8,7 +8,7 @@
       "name": "DILSE",
       "search_url": "https://fundacioncnse-dilse.org/?buscar={searchTerms}",
       "favicon_url": "https://fundacioncnse-dilse.org/img/dilse.ico",
-      "keyword": "@dilse",
+      "keyword": "@dilse, dilse, d",
       "is_default": false,
       "encoding": "UTF-8"
     }
