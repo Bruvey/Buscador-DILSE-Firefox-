@@ -8,7 +8,7 @@
       "name": "DILSE",
       "search_url": "https://fundacioncnse-dilse.org/?buscar={searchTerms}",
       "favicon_url": "https://fundacioncnse-dilse.org/img/dilse.ico",
-      "keyword": "@dilse, dilse, d",
+      "keyword": "@dilse"
       "is_default": false,
       "encoding": "UTF-8"
     }
